@@ -10,4 +10,6 @@ function Header(){
     )
 }
 
+export const valuex = 10;
+
 export default Header
